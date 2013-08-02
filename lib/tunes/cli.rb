@@ -25,7 +25,7 @@ module Tunes
     desc 'pause', 'Pause the current song'
     def pause
       player.pause
-    end 
+    end
 
     desc 'stop', 'Stop playing music'
     def stop
